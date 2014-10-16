@@ -1,0 +1,13 @@
+1. What is this?
+⋅⋅* Team Fortress 2's Item pricer and rarity finder
+⋅⋅⋅ Utilizing Tf2's database of rare items, as well as their pricings on websites like trade.tf and backpack.tf
+⋅⋅⋅ This will apply detail for users to find information on their items, and properly price those items in an easy database
+⋅⋅⋅ (http://backpack.tf/ "Backpack.tf")
+⋅⋅⋅ (http://www.trade.tf/ "Trade.tf")
+
+2. Pricing data
+⋅⋅* Money through keys
+⋅⋅⋅ Keys in tf2 cost $2.49 per key
+⋅⋅⋅ Keys are often traded with users to trade for items
+⋅⋅⋅ Follows a bartering system with real world money
+⋅⋅⋅ Keys can ONLY be bought with money 
