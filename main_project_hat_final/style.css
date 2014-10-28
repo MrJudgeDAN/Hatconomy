@@ -1,0 +1,45 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,500,300|Roboto+Slab:400,700,300);
+
+
+/*
+
+body: #2B2724
+main-content: #3D362F
+header font: #CABBA4
+paragraph text: #ECE4CC
+highlighted text: #CC4F3E
+
+*/
+
+body {
+  background-color: #2B2724;
+}
+
+h1 {
+  color: #CABBA4;
+  font-style: "Roboto+Slab", serif;
+  font-weight:700;
+  font-size: 36px;
+}
+
+p {
+  font-size: 20px;
+  font-style: "Roboto", sans-serif;
+  font-weight: 400;
+  color:#fff;
+}
+
+#wrapper{
+  margin:0 auto;
+}
+
+#search {
+  padding:20px;
+  background-color: #3D362F;
+  margin:30px 10px;
+}
+
+#output {
+  background-color: #3D362F;
+  margin:30px 10px;
+}
