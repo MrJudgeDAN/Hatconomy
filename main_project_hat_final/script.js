@@ -33,7 +33,7 @@ $(function() {
                           }
                         }
                   }
-
+                });
 
             /*      var prices = getPrices();        PRICE FOCUS FOR LATER
 
